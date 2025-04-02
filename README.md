@@ -81,5 +81,4 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para m
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
-
+Feito com ❤️ por Umpreto.dev
