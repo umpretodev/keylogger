@@ -2,7 +2,9 @@
 
 ![Badge de Status](https://img.shields.io/badge/status-Desenvolvido-purple)
 
-> Projetinho para monitorar a tecla pressionada no teclado do computador dos amiguinhos (não faça isso). Por motivos de organização o projeto foi separado em dois repositórios: <br>
+> Projetinho para monitorar a tecla pressionada no teclado do computador dos amiguinhos (não faça isso).
+
+Por motivos de organização o projeto foi separado em dois repositórios: <br>
  
 <br>
 
